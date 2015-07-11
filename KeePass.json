@@ -1,0 +1,10 @@
+﻿{
+    "version":  "2.29",
+    "license":  "GPL",
+    "extract_dir":  "",
+    "url":  "http://downloads.sourceforge.net/project/keepass/KeePass%202.x/2.29/KeePass-2.29.zip",
+    "depends":  "",
+    "homepage":  "http://keepass.info/",
+    "hash":  "2d3d4207583d4e9c4fc289299fcc02387d7778209972c0cc00f14e9512aaa79b",
+    "bin":  "KeePass.exe"
+}

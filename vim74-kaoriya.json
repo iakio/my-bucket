@@ -1,12 +1,12 @@
 {
     "homepage": "http://www.kaoriya.net/software/vim/",
-    "version": "7.4.763-20150628",
+    "version": "7.4.884-20150926",
     "architecture": {
         "64bit": {
-            "url": "http://files.kaoriya.net/vim/vim74-kaoriya-win64-20150628.zip",
-            "hash": "md5:c6caa8c4662c4eeaec12437e5bc440b9"
+            "url": "http://files.kaoriya.net/vim/vim74-kaoriya-win64-20150926.zip",
+            "hash": "md5:1eea02d45bfcadc23246e435f8769fcd"
         }
     },
     "extract_dir": "vim74-kaoriya-win64",
-    "bin": "gvim.exe"
+    "bin": ["gvim.exe", "vim.exe"]
 }

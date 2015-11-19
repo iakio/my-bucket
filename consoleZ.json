@@ -1,0 +1,12 @@
+﻿{
+    "version":  "1.15.0.15253",
+    "license":  "GPL",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/cbucher/console/releases/download/1.15.0/ConsoleZ.x64.1.15.0.15253.zip",
+            "hash": "f008a95f3dcf3563854819a5b20d5390c25905f9f96ac20407986b4aba024ab9"
+        }
+    },
+    "homepage":  "https://github.com/cbucher/console",
+    "bin":  ["Console.exe"]
+}

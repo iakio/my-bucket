@@ -1,0 +1,10 @@
+﻿{
+    "version":  "7.0.0RC8",
+    "license": "http://www.php.net/license/",
+    "extract_dir":  "",
+    "url":  "http://windows.php.net/downloads/qa/php-7.0.0RC8-Win32-VC14-x86.zip",
+    "depends":  "",
+    "homepage":  "http://windows.php.net/",
+    "hash":  "sha1:22a98fd790ee55141ab530253f179342d72c9b99",
+    "bin":  "php.exe"
+}
